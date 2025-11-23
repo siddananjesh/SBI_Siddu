@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-i love india
-=======
-hi 
->>>>>>> 365886c8988af81db315f9180f7bfcbee6bdfb5a
+
+i love india
