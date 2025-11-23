@@ -5,8 +5,10 @@ i love india
 
 
 
-
-
+story 130
+x=30
+y=02
+z=x+y
 
 story 130
 i am don
